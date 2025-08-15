@@ -30,14 +30,14 @@
     "verdict": "Underweight"
   },
   "P004": {
-    "name": "Arjun Verma",
-    "city": "Bangalore",
+    "name": "Harris",
+    "city": "Islamabad",
     "age": 40,
     "gender": "male",
     "height": 1.8,
-    "weight": 95,
-    "bmi": 29.32,
-    "verdict": "Overweight"
+    "weight": 95.0,
+    "bmi": 29.0,
+    "verdict": "Normal"
   },
   "P005": {
     "name": "Neha Sinha",
